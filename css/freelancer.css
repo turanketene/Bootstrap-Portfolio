@@ -10874,3 +10874,9 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+.github, .linkedin  {
+  color: white;
+  font-size: 1.25rem;
+  font-weight: 300;
+}
